@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=220&section=header&text=DAVID%20JABEZ.M&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=STOREFRONT%20ARCHITECT&descSize=20&descAlign=50&descAlignY=66&stroke=C8FF00&strokeWidth=1" alt="David Jabez.M" width="100%" />
 
 <a href="https://david-jabez.pages.dev/">
