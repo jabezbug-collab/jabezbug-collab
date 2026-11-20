@@ -95,7 +95,7 @@ I build fast, high-converting storefronts and web apps, and I like it best when 
       <a href="https://happybirthdayappa.pages.dev/"><b>VIEW PROJECT ↗</b></a>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td width="50%" valign="top">
       <sub><b>CASE 09 — 2023</b></sub><br />
       <h3>ARTIST</h3>
@@ -103,7 +103,10 @@ I build fast, high-converting storefronts and web apps, and I like it best when 
       <a href="https://artist.jabezbug.workers.dev/"><b>VIEW PROJECT ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <!-- empty cell keeps the grid balanced -->
+      <sub><b>CASE 10 — 2025</b></sub><br />
+      <h3>WEBMAKERS PORTAL</h3>
+      A central platform to browse all my projects in one place.<br /><br />
+      <a href="https://webmakers-webportal.pages.dev/"><b>VIEW PROJECT ↗</b></a>
     </td>
   </tr>
 </table>
