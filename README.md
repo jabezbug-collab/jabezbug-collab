@@ -94,6 +94,12 @@ I build fast, high-converting storefronts and web apps, and I like it best when 
       Interactive digital birthday experience with complex animations.<br /><br />
       <a href="https://happybirthdayappa.pages.dev/"><b>VIEW PROJECT ↗</b></a>
     </td>
+    <td width="50%" valign="top">
+      <sub><b>CASE 07 — 2023</b></sub><br />
+      <h3>artist</h3>
+      a web or mobile application built to replicate the core design, visual discovery  features, and user experience of Pinterest.<br /><br />
+      <a href="https://artist.jabezbug.workers.dev/"><b>VIEW PROJECT ↗</b></a>
+    </td>
   </tr>
 </table>
 
