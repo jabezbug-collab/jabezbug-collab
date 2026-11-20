@@ -81,7 +81,7 @@ I build fast, high-converting storefronts and web apps, and I like it best when 
       <a href="https://dhanvantri-landingpage.pages.dev/"><b>VIEW PROJECT ↗</b></a>
     </td>
   </tr>
-  <tr>
+   <tr>
     <td width="50%" valign="top">
       <sub><b>CASE 07 — 2023</b></sub><br />
       <h3>WEBMAKERS</h3>
@@ -94,11 +94,16 @@ I build fast, high-converting storefronts and web apps, and I like it best when 
       Interactive digital birthday experience with complex animations.<br /><br />
       <a href="https://happybirthdayappa.pages.dev/"><b>VIEW PROJECT ↗</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <sub><b>CASE 07 — 2023</b></sub><br />
-      <h3>artist</h3>
-      a web or mobile application built to replicate the core design, visual discovery  features, and user experience of Pinterest.<br /><br />
+      <sub><b>CASE 09 — 2023</b></sub><br />
+      <h3>ARTIST</h3>
+      A Pinterest-inspired web app with visual discovery features and a familiar user experience.<br /><br />
       <a href="https://artist.jabezbug.workers.dev/"><b>VIEW PROJECT ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- empty cell keeps the grid balanced -->
     </td>
   </tr>
 </table>
